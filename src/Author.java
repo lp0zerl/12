@@ -1,6 +1,6 @@
 import java.util.Objects;
 
-class Author {
+public class Author {
     private String firstName; // Имя автора
     private String lastName;  // Фамилия автора
 
